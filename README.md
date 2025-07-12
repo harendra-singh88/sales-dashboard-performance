@@ -1,7 +1,7 @@
 sales performence dashboard--->
 
 This project is done under the code shape it solution 
-who gives me summer internship and enhane my data analysis skill 
+who gives me summer internship and enhance my data analysis skill 
 eamil id = codeshapeitsolution@gmail.com
 website=https://www.codeshapeitsolution.com
 
